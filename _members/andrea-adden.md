@@ -1,11 +1,11 @@
 ---
-name: Jane Smith
+name: Andrea Adden
 image: images/photo.jpg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: University of Bristol
 aliases:
-  - J. Smith
-  - J Smith
+  - A. K. Adden
+  - A Adden
 links:
   home-page: https://janesmith.com
   orcid: 0000-0001-8713-9213
