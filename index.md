@@ -1,7 +1,7 @@
 ---
 ---
 
-# Welcome to the Tsetse Sensory Ecology lab!
+# Welcome to the Tsetse Sensory Ecology and Neuroethology of Viviparity (TSENVI) lab!
 
 Our lab is interested in the evolution and neural basis of behaviour, particularly maternal care behaviours. We study tsetse flies to understand how sensory and neural systems change to support changing behavioural demands in both mothers and offspring.
 
@@ -58,7 +58,7 @@ Coming soon!
 
 {% capture text %}
 
-The Adden lab opened at the University of Bristol in 2026. We are a young, dynamic team embedded in the vibrant, diverse and supportive community of the School of Biological Sciences. 
+The Adden lab opened at the University of Bristol in 2026. We are a young, dynamic team embedded in the vibrant and diverse community of the School of Biological Sciences. 
 
 {%
   include button.html
@@ -73,7 +73,7 @@ The Adden lab opened at the University of Bristol in 2026. We are a young, dynam
 
 {%
   include feature.html
-  image="images/Andrea.jpeg"
+  image="images/photo.jpg"
   link="team"
   title="Our Team"
   text=text
