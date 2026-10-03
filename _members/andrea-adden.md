@@ -7,14 +7,8 @@ aliases:
   - A. K. Adden
   - A Adden
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://www.bristol.ac.uk/biology/
+  orcid: 0000-0001-6455-6313
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Andrea is an insect neuroethologist – fascinated by the plethora of astonishingly sophisticated insect behaviours, she studies how their tiny brains process the world and respond to external stimulation. She has studied a range of insect species, behaviours and sensory systems, from visual navigation in night-migratory moths to olfactory host-seeking in biting flies. Beyond research, Andrea is a passionate educator and enjoys passing on her enthusiasm for science to students and the wider community.
