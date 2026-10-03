@@ -7,4 +7,4 @@ tags:
   - flies
 ---
 
-The Adden lab has just opened its doors at the School of Biological Sciences in Bristol. We're still setting up – watch this space!
+The Adden lab has just arrived at the School of Biological Sciences in Bristol. We're still setting up – watch this space!
