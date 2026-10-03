@@ -1,9 +1,9 @@
 ---
 ---
 
-# akadden's Website
+# Welcome to the Tsetse Sensory Ecology lab!
 
-The Adden lab is interested in the evolution and neural basis of behaviour, particularly maternal care behaviours. We study tsetse flies to understand how sensory and neural systems change to support changing behavioural demands in both mothers and offspring.
+Our lab is interested in the evolution and neural basis of behaviour, particularly maternal care behaviours. We study tsetse flies to understand how sensory and neural systems change to support changing behavioural demands in both mothers and offspring.
 
 {% include section.html %}
 
@@ -11,8 +11,7 @@ The Adden lab is interested in the evolution and neural basis of behaviour, part
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+Coming soon!
 {%
   include button.html
   link="research"
@@ -34,7 +33,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Coming soon!
 
 {%
   include button.html
@@ -74,7 +73,7 @@ The Adden lab opened at the University of Bristol in 2026. We are a young, dynam
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Andrea.jpeg"
   link="team"
   title="Our Team"
   text=text
