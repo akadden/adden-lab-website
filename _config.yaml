@@ -1,9 +1,7 @@
 # site properties and page defaults
 title: Adden Lab
 subtitle: Tsetse sensory ecology and neuroethology of viviparity
-description: The Adden lab is interested in the evolution and neural basis of behaviour, 
-particularly maternal care behaviours. We study tsetse flies to understand how sensory and 
-neural systems change to support changing behavioural demands in both mothers and offspring.
+description: The Adden lab is interested in the evolution and neural basis of behaviour, particularly maternal care behaviours. We study tsetse flies to understand how sensory and neural systems change to support changing behavioural demands in both mothers and offspring.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
@@ -13,7 +11,7 @@ links:
   email: andrea.adden@bristol.ac.uk
   orcid: 0000-0001-6455-6313
   google-scholar: D9DJI28AAAAJ
-  #linked-in: andrea-adden-39513799
+  #linkedin: andrea-adden-39513799
   #github: akadden
   #twitter: akadden
   #youtube: akadden
