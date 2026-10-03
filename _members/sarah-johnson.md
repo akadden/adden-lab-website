@@ -1,8 +1,8 @@
 ---
 name: Sarah Johnson
 image: images/photo.jpg
-description: MSci student
-role: MSci student
+description: msci student
+role: msci student
 links:
   email: sarah.johnson@gmail.com
   twitter: sarahjohnson
