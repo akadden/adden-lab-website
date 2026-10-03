@@ -3,7 +3,7 @@
 
 # akadden's Website
 
-An engaging 1-3 sentence description of your lab.
+The Adden lab is interested in the evolution and neural basis of behaviour, particularly maternal care behaviours. We study tsetse flies to understand how sensory and neural systems change to support changing behavioural demands in both mothers and offspring.
 
 {% include section.html %}
 
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The Adden lab opened at the University of Bristol in 2026. We are a young, dynamic team embedded in the vibrant, diverse and supportive community of the School of Biological Sciences. 
 
 {%
   include button.html
