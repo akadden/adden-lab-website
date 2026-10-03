@@ -2,7 +2,7 @@
 name: Sarah Johnson
 image: images/photo.jpg
 description: Lead Programmer
-role: programmer
+role: MSci student
 links:
   email: sarah.johnson@gmail.com
   twitter: sarahjohnson
