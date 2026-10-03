@@ -1,7 +1,7 @@
 ---
 name: Sarah Johnson
 image: images/photo.jpg
-description: Lead Programmer
+description: MSci student
 role: MSci student
 links:
   email: sarah.johnson@gmail.com
