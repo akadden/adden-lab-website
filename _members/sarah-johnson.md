@@ -1,7 +1,7 @@
 ---
 name: Sarah Johnson
 image: images/photo.jpg
-description: msci
+role: msci
 links:
   email: sarah.johnson@gmail.com
   twitter: sarahjohnson
