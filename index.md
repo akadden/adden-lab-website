@@ -73,7 +73,7 @@ The Adden lab opened at the University of Bristol in 2026. We are a young, dynam
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/miranda_tsetse.jpeg"
   link="team"
   title="Our Team"
   text=text
