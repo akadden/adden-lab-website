@@ -14,7 +14,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" filter="group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role != 'pi'" include="group != 'alum'" %}
 
 # {% include icon.html icon="fa-solid fa-users" %}Alumni
 
