@@ -25,7 +25,7 @@ Coming soon!
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/tsetse_ventral.jpg.webp"
   link="research"
   title="Our Research"
   text=text
@@ -48,7 +48,7 @@ Coming soon!
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Tsetse_postfeeding.jpg.webp"
   link="projects"
   title="Our Projects"
   flip=true
