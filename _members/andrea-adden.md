@@ -2,7 +2,6 @@
 name: Andrea Adden
 image: images/Andrea2.jpeg
 role: principal-investigator
-affiliation: University of Bristol
 aliases:
   - A. K. Adden
   - A Adden
