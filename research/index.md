@@ -12,7 +12,7 @@ poorly understood. We investigate the biological basis of these fascinating beha
 
 You can find our recent publications below!
 
-{% include feature.html image="images/miranda_tsetse.jpeg" link="projects" title="Explore our ongoing projects" text=text %}
+{% include button.html link="projects" text="Explore our ongoing projects" icon="fa-solid fa-arrow-right" flip=true style="bare" %}
 
 {% include section.html %}
 
