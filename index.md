@@ -9,7 +9,6 @@ Our lab is interested in the evolution and neural basis of behaviour, particular
 
 ## Highlights
 
-{% capture text %}
 
 Coming soon!
 {%
@@ -21,15 +20,8 @@ Coming soon!
   style="bare"
 %}
 
-{% endcapture %}
 
-{%
-  include feature.html
-  image="images/tsetse_ventral.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
+
 
 {% capture text %}
 
