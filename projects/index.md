@@ -7,18 +7,11 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-seedling" %}Projects
 
-Coming soon
 
 {% include search-info.html %}
 
 {% include section.html %}
 
-## Featured
+## Ongoing
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
-
-{% include section.html %}
-
-## More
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list.html component="card" data="projects" filter="group == 'ongoing'" style="small" %}
