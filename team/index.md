@@ -19,15 +19,3 @@ nav:
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="group == 'alum'" %}
-
-{% capture content %}
-
-{% include section.html background="images/background.jpg" dark=true %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
