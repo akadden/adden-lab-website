@@ -1,21 +1,10 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:10.1007/s00359-025-01787-w
-  title: The evolution of lepidopteran brain morphology
-  authors:
-  - Andrea Adden
-  - Susana Garcia Dominguez
-  - Katharina Kliem
-  - Kavitha Kannan
-  - Jothi Kumar Yuvaraj
-  - Tugce Raif
-  - Alejandra Boronat-Garcia
-  - Sara Arganda
-  - Gerard Talavera
-  - Almut Kelber
-  - Stanley Heinze
-  publisher: Journal of Comparative Physiology A
-  date: '2025-12-22'
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
   link: https://doi.org/hbk7x3
   orcid: 0000-0001-6455-6313
   plugin: sources.py
@@ -164,14 +153,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1242/jeb.188854
-  title: The insect central complex and the neural basis of navigational strategies
-  authors:
-  - Anna Honkanen
-  - Andrea Adden
-  - Josiane da Silva Freitas
-  - Stanley Heinze
-  publisher: Journal of Experimental Biology
-  date: '2019-02-06'
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
   link: https://doi.org/gfw56t
   orcid: 0000-0001-6455-6313
   plugin: orcid.py
