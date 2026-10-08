@@ -37,10 +37,24 @@
   category: featured
   image: https://onlinelibrary.wiley.com/cms/asset/5dde3af9-f215-401e-8858-b69c50a12f48/ejn70377-fig-0001-m.jpg
 - id: doi:10.1038/s41586-025-09135-3
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Bogong moths use a stellar compass for long-distance navigation at night
+  authors:
+  - David Dreyer
+  - Andrea Adden
+  - Hui Chen
+  - Barrie Frost
+  - Henrik Mouritsen
+  - Jingjing Xu
+  - Ken Green
+  - Mary Whitehouse
+  - Javaan Chahl
+  - Jesse Wallace
+  - Gao Hu
+  - James Foster
+  - Stanley Heinze
+  - Eric Warrant
+  publisher: Nature
+  date: '2025-06-18'
   link: https://doi.org/psgb
   orcid: 0000-0001-6455-6313
   plugin: sources.py
@@ -81,10 +95,14 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1162/neco_a_01540
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: A Neural Model for Insect Steering Applied to Olfaction and Path Integration
+  authors:
+  - Andrea Adden
+  - Terrence C. Stewart
+  - Barbara Webb
+  - Stanley Heinze
+  publisher: Neural Computation
+  date: '2022-10-07'
   link: https://doi.org/grgx5s
   orcid: 0000-0001-6455-6313
   plugin: orcid.py
