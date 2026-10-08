@@ -1,10 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:10.1007/s00359-025-01787-w
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: The evolution of lepidopteran brain morphology
+  authors:
+  - Andrea Adden
+  - Susana Garcia Dominguez
+  - Katharina Kliem
+  - Kavitha Kannan
+  - Jothi Kumar Yuvaraj
+  - Tugce Raif
+  - Alejandra Boronat-Garcia
+  - Sara Arganda
+  - Gerard Talavera
+  - Almut Kelber
+  - Stanley Heinze
+  publisher: Journal of Comparative Physiology A
+  date: '2025-12-22'
   link: https://doi.org/hbk7x3
   orcid: 0000-0001-6455-6313
   plugin: sources.py
@@ -153,29 +164,23 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1242/jeb.188854
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: The insect central complex and the neural basis of navigational strategies
+  authors:
+  - Anna Honkanen
+  - Andrea Adden
+  - Josiane da Silva Freitas
+  - Stanley Heinze
+  publisher: Journal of Experimental Biology
+  date: '2019-02-06'
   link: https://doi.org/gfw56t
   orcid: 0000-0001-6455-6313
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.cub.2017.08.052
-  title: An Anatomically Constrained Model for Path Integration in the Bee Brain
-  authors:
-  - Thomas Stone
-  - Barbara Webb
-  - Andrea Adden
-  - Nicolai Ben Weddig
-  - Anna Honkanen
-  - Rachel Templin
-  - William Wcislo
-  - Luca Scimeca
-  - Eric Warrant
-  - Stanley Heinze
-  publisher: Current Biology
-  date: '2017-10-01'
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
   link: https://doi.org/cd7s
   orcid: 0000-0001-6455-6313
   plugin: orcid.py
