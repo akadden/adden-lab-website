@@ -79,17 +79,10 @@
   category: featured
   image: https://trs.silverchair-cdn.com/trs/content_public/journal/rspb/issue/290/1997/5/m_rspb.2023.290.issue-1997.cover.gif?Expires=1794058638&Signature=uzWBKjgkNgjTv8JCxHGDXJYjYFEkuGgYpN6O0z-N8d4x13u48J4o5SkJrOZZjZ8pk-uNkeRQSimS-P5sbwc83i-V1ZWy6BCbThyN8ay1aS-6bEL3YT-q9qpC60~sGvZKmg3pR2wjR4BsyzVxCtIqlhEosMHn7ksQz6oIzBya4ej1ZOEWWigqwPp89NftOkgdmEPZv53dz3wDoocVmwRyMcxWtETw4uyyKeYnRqDo5xFRP4DoFhKe2L7mt-OWThJ20jm9VvLfCGGGXdI3q1kaRbJjOWyc3LNP8xGxHI9sNVC7Ajv6TWSq9C3ef0w2wvkvZoXGfdgmymPyziSqLyBLPQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.1007/s00359-023-01625-x
-  title: Parallel motion vision pathways in the brain of a tropical bee
-  authors:
-  - Anna Honkanen
-  - Ronja Hensgen
-  - Kavitha Kannan
-  - Andrea Adden
-  - Eric Warrant
-  - William Wcislo
-  - Stanley Heinze
-  publisher: Journal of Comparative Physiology A
-  date: '2023-04-05'
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
   link: https://doi.org/gr879w
   orcid: 0000-0001-6455-6313
   plugin: orcid.py
