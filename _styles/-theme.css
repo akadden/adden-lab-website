@@ -1,19 +1,19 @@
 [data-dark=false] {
   --primary: #283618;
-  --secondary: #606c38;
+  --secondary: #606C38;
   --text: #000000;
   --background: #fefae0;
-  --background-alt: #fafafa;
+  --background-alt: #f7eddb;
   --light-gray: #dda15e;
-  --gray: #808080;
+  --gray: #BC6C25;
   --dark-gray: #bc6c25;
-  --overlay: #00000020;
+  --overlay: #dda15e;
 }
 
 [data-dark=true] {
   --primary: #0795d9;
   --secondary: #075985;
-  --text: #ffffff;
+  --text: #fefae0;
   --background: #181818;
   --background-alt: #1c1c1c;
   --light-gray: #404040;
