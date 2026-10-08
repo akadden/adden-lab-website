@@ -51,7 +51,7 @@
   - Stanley Heinze
   - Eric Warrant
   publisher: Nature
-  date: '2025-06-18'
+  date: '2025-07-01'
   link: https://doi.org/psgb
   orcid: 0000-0001-6455-6313
   plugin: sources.py
@@ -76,10 +76,17 @@
   category: featured
   image: https://trs.silverchair-cdn.com/trs/content_public/journal/rspb/issue/290/1997/5/m_rspb.2023.290.issue-1997.cover.gif?Expires=1794058638&Signature=uzWBKjgkNgjTv8JCxHGDXJYjYFEkuGgYpN6O0z-N8d4x13u48J4o5SkJrOZZjZ8pk-uNkeRQSimS-P5sbwc83i-V1ZWy6BCbThyN8ay1aS-6bEL3YT-q9qpC60~sGvZKmg3pR2wjR4BsyzVxCtIqlhEosMHn7ksQz6oIzBya4ej1ZOEWWigqwPp89NftOkgdmEPZv53dz3wDoocVmwRyMcxWtETw4uyyKeYnRqDo5xFRP4DoFhKe2L7mt-OWThJ20jm9VvLfCGGGXdI3q1kaRbJjOWyc3LNP8xGxHI9sNVC7Ajv6TWSq9C3ef0w2wvkvZoXGfdgmymPyziSqLyBLPQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.1007/s00359-023-01625-x
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Parallel motion vision pathways in the brain of a tropical bee
+  authors:
+  - Anna Honkanen
+  - Ronja Hensgen
+  - Kavitha Kannan
+  - Andrea Adden
+  - Eric Warrant
+  - William Wcislo
+  - Stanley Heinze
+  publisher: Journal of Comparative Physiology A
+  date: '2023-04-05'
   link: https://doi.org/gr879w
   orcid: 0000-0001-6455-6313
   plugin: orcid.py
@@ -98,15 +105,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/cne.24962
-  title: Cover Image, Volume 528, Issue 11
-  authors:
-  - Andrea Adden
-  - Sara Wibrand
-  - Keram Pfeiffer
-  - Eric Warrant
-  - Stanley Heinze
-  publisher: Journal of Comparative Neurology
-  date: '2020-05-28'
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
   link: https://doi.org/hcmhbv
   orcid: 0000-0001-6455-6313
   plugin: orcid.py
@@ -150,10 +152,14 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1242/jeb.188854
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: The insect central complex and the neural basis of navigational strategies
+  authors:
+  - Anna Honkanen
+  - Andrea Adden
+  - Josiane da Silva Freitas
+  - Stanley Heinze
+  publisher: Journal of Experimental Biology
+  date: '2019-02-06'
   link: https://doi.org/gfw56t
   orcid: 0000-0001-6455-6313
   plugin: orcid.py
