@@ -23,10 +23,13 @@
   category: featured
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs00359-025-01787-w/MediaObjects/359_2025_1787_Fig2_HTML.png?as=webp
 - id: doi:10.1111/ejn.70377
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: 'The Sensory Ecology of Tsetse Flies: Neuroscience Perspectives on a Disease
+    Vector'
+  authors:
+  - Andrea Adden
+  - "Lucia\_L. Prieto\u2010Godino"
+  publisher: European Journal of Neuroscience
+  date: '2026-01-01'
   link: https://doi.org/hcmhbs
   orcid: 0000-0001-6455-6313
   plugin: sources.py
@@ -34,24 +37,10 @@
   category: featured
   image: https://onlinelibrary.wiley.com/cms/asset/5dde3af9-f215-401e-8858-b69c50a12f48/ejn70377-fig-0001-m.jpg
 - id: doi:10.1038/s41586-025-09135-3
-  title: Bogong moths use a stellar compass for long-distance navigation at night
-  authors:
-  - David Dreyer
-  - Andrea Adden
-  - Hui Chen
-  - Barrie Frost
-  - Henrik Mouritsen
-  - Jingjing Xu
-  - Ken Green
-  - Mary Whitehouse
-  - Javaan Chahl
-  - Jesse Wallace
-  - Gao Hu
-  - James Foster
-  - Stanley Heinze
-  - Eric Warrant
-  publisher: Nature
-  date: '2025-07-01'
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
   link: https://doi.org/psgb
   orcid: 0000-0001-6455-6313
   plugin: sources.py
@@ -92,23 +81,24 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1162/neco_a_01540
-  title: A Neural Model for Insect Steering Applied to Olfaction and Path Integration
-  authors:
-  - Andrea Adden
-  - Terrence C. Stewart
-  - Barbara Webb
-  - Stanley Heinze
-  publisher: Neural Computation
-  date: '2022-10-07'
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
   link: https://doi.org/grgx5s
   orcid: 0000-0001-6455-6313
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/cne.24962
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Cover Image, Volume 528, Issue 11
+  authors:
+  - Andrea Adden
+  - Sara Wibrand
+  - Keram Pfeiffer
+  - Eric Warrant
+  - Stanley Heinze
+  publisher: Journal of Comparative Neurology
+  date: '2020-05-28'
   link: https://doi.org/hcmhbv
   orcid: 0000-0001-6455-6313
   plugin: orcid.py
@@ -128,10 +118,14 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1242/jeb.212332
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: 'Connecting brain to behaviour: a role for general purpose steering circuits
+    in insect orientation?'
+  authors:
+  - Fabian Steinbeck
+  - Andrea Adden
+  - Paul Graham
+  publisher: Journal of Experimental Biology
+  date: '2020-03-01'
   link: https://doi.org/gjdhmp
   orcid: 0000-0001-6455-6313
   plugin: orcid.py
