@@ -14,7 +14,7 @@ Andrea is an insect neuroethologist – fascinated by the plethora of astonishin
 
 Qualifications:
 
-- AFHEA 2023 (Advance HE, UK)
+- AFHEA 2023
 - PhD Neurobiology 2020 (Lund University, Sweden)
 - MSc Neurosciences 2014 (International Max Planck Research School for Neurosciences, Göttingen, Germany)
 - BSc Biology 2012 (Göttingen University, Germany)
