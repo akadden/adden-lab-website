@@ -10,7 +10,7 @@ nav:
 {%
   include button.html
   type="email"
-  text="andrea [dot] adden [at] bristol.ac.uk"
+  text="Email Andrea"
   link="andrea.adden@bristol.ac.uk"
 %}
 
