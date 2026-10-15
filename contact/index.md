@@ -39,8 +39,8 @@ Get in touch!
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/miranda_tsetse.jpeg"
+  caption="Credit: Miranda Gonzales"
 %}
 
 {% endcapture %}
