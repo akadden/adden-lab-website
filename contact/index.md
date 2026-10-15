@@ -5,9 +5,7 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
-
-Get in touch! 
+# {% include icon.html icon="fa-regular fa-envelope" %}Get in touch!
 
 {%
   include button.html
