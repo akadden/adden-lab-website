@@ -29,8 +29,8 @@ Get in touch!
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/LSB.jpeg"
+  caption="Inside the Life Sciences Building"
 %}
 
 {% endcapture %}
