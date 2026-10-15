@@ -10,13 +10,13 @@ nav:
 {%
   include button.html
   type="email"
-  text="Email Andrea"
+  text="Send us an email"
   link="andrea.adden@bristol.ac.uk"
 %}
 
 {%
   include button.html
-  type="address"
+  type="Visit us at the Life Sciences Building"
   tooltip="Our location on Google Maps for easy navigation"
   link="https://maps.app.goo.gl/28ZneLQsv3qwvHQEA"
 %}
