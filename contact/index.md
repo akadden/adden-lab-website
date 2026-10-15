@@ -16,7 +16,8 @@ nav:
 
 {%
   include button.html
-  type="Visit us at the Life Sciences Building"
+  type="address"
+  text="Visit us at the Life Sciences Building"
   tooltip="Our location on Google Maps for easy navigation"
   link="https://maps.app.goo.gl/28ZneLQsv3qwvHQEA"
 %}
