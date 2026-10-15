@@ -12,8 +12,7 @@ links:
 
 Andrea is an insect neuroethologist – fascinated by the plethora of astonishingly sophisticated insect behaviours, she studies how their tiny brains process the world and respond to external stimulation. She has studied a range of insect species, behaviours and sensory systems, from visual navigation in night-migratory moths to olfactory host-seeking in biting flies. Beyond research, Andrea is a passionate educator and enjoys passing on her enthusiasm for science to students and the wider community.
 
-{% include icon.html icon="fa-solid fa-graduation-cap" %}Qualifications
-- AFHEA 2023
+{% include icon.html icon="fa-solid fa-graduation-cap" %} Qualifications
 - PhD Neurobiology 2020 (Lund University, Sweden)
 - MSc Neurosciences 2014 (International Max Planck Research School for Neurosciences, Göttingen, Germany)
 - BSc Biology 2012 (Göttingen University, Germany)
