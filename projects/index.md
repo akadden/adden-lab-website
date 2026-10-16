@@ -1,8 +1,8 @@
 ---
 title: Projects
 nav:
-  order: 2
-  tooltip: Software, datasets, and more
+  order: 1
+  tooltip: Our ongoing projects
 ---
 
 # {% include icon.html icon="fa-solid fa-seedling" %}Projects
