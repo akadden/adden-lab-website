@@ -5,6 +5,6 @@
 
   # akadden's Website
 
-  Visit **[akadden.github.io/adden-lab-website](https://akadden.github.io/adden-lab-website)** 🚀
+  Visit **[addenlab.org](http://addenlab.org)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
