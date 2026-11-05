@@ -3,9 +3,7 @@
   group: ongoing
   image: images/tsetse_ventral.jpg
   description: Lilah is conducting behavioural experiments to understand how tsetse mothers respond to tree odours at different points in their pregnancy.
-  tags:
-    - lilah-douglashome
-
+  
 - title: Cool Package
   subtitle: a subtitle
   group: featured
