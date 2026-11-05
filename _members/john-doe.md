@@ -6,4 +6,4 @@ group:
 links:
 ---
 
-[We are recruiting!](blog)
+[We are recruiting!](../blog)
