@@ -1,10 +1,8 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
+- title: How tsetse respond to tree odours...
+  subtitle: ... and how it changes during pregnancy
+  group: ongoing
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Lilah is conducting behavioural experiments to understand how tsetse mothers respond to tree odours at different points in their pregnancy.
   tags:
     - resource
 
