@@ -43,3 +43,5 @@ nav:
 %}
 
 {% endcapture %}
+
+{% include section.html col1=col1 col2=col2%}
