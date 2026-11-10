@@ -1,6 +1,6 @@
 ---
 name: Blood Orange
-image: images/Blood_Orange_Miranda_square.jpeg
+image: images/Blood_Orange_Miranda_square.jpg
 role: mascot
 ---
 
