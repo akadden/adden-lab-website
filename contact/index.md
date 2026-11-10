@@ -38,7 +38,7 @@ nav:
 
 {%
   include figure.html
-  image="images/Blood_Orange_Miranda.jpeg"
+  image="images/Blood_Orange_Miranda.jpg"
   caption="Credit: Miranda Gonzales"
 %}
 
