@@ -1,6 +1,6 @@
 ---
 name: Blood Orange
-image: images/miranda_tsetse.jpeg
+image: images/Miranda_bloodorange_square.png
 role: mascot
 ---
 
