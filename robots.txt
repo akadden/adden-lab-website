@@ -1,1 +1,1 @@
-Sitemap: http://addenlab.org/sitemap.xml
+Sitemap: https://www.addenlab.org/sitemap.xml
