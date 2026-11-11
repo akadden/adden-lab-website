@@ -11,7 +11,7 @@ nav:
   include button.html
   type="email"
   text="Send us an email"
-  link="andrea.adden@bristol.ac.uk"
+  link="contact@addenlab.org"
 %}
 
 {%
@@ -38,7 +38,7 @@ nav:
 
 {%
   include figure.html
-  image="images/Blood_Orange_Miranda.jpg"
+  image="images/Miranda_bloodorange.png"
   caption="Credit: Miranda Gonzales"
 %}
 
