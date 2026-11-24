@@ -2,19 +2,19 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.addenlab.org/members/andrea-adden.html</loc>
-<lastmod>2026-11-19T14:13:25+00:00</lastmod>
+<lastmod>2026-11-24T13:13:28+00:00</lastmod>
 </url>
 <url>
 <loc>https://www.addenlab.org/members/lilah-douglashome.html</loc>
-<lastmod>2026-11-19T14:13:25+00:00</lastmod>
+<lastmod>2026-11-24T13:13:28+00:00</lastmod>
 </url>
 <url>
 <loc>https://www.addenlab.org/members/mascot.html</loc>
-<lastmod>2026-11-19T14:13:25+00:00</lastmod>
+<lastmod>2026-11-24T13:13:28+00:00</lastmod>
 </url>
 <url>
 <loc>https://www.addenlab.org/members/you.html</loc>
-<lastmod>2026-11-19T14:13:25+00:00</lastmod>
+<lastmod>2026-11-24T13:13:28+00:00</lastmod>
 </url>
 <url>
 <loc>https://www.addenlab.org/2026/09/02/welcome-to-bristol.html</loc>
@@ -28,6 +28,9 @@
 <loc>https://www.addenlab.org/contact/</loc>
 </url>
 <url>
+<loc>https://www.addenlab.org/blog/</loc>
+</url>
+<url>
 <loc>https://www.addenlab.org/team/</loc>
 </url>
 <url>
@@ -35,9 +38,6 @@
 </url>
 <url>
 <loc>https://www.addenlab.org/research/</loc>
-</url>
-<url>
-<loc>https://www.addenlab.org/blog/</loc>
 </url>
 <url>
 <loc>https://www.addenlab.org/</loc>
