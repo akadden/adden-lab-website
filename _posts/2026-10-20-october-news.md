@@ -16,7 +16,7 @@ Andrea was a panelist at the Royal Society of Edinburgh's Global Health workshop
 
 {% capture col2 %}
 
-{% include figure.html image="images/RSE-GlobalHealth2026-Andrea.JPG" caption="Credit: Stewart Attwood Photography / Royal Society of Edinburgh." %}
+{% include figure.html image="images/RSE-GlobalHealth2026_Andrea.JPG" caption="Credit: Stewart Attwood Photography / Royal Society of Edinburgh." %}
 
 {% endcapture %}
 
