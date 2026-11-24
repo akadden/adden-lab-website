@@ -10,13 +10,13 @@ Andrea was a panelist at the Royal Society of Edinburgh's Global Health workshop
 
 {% capture col1 %}
 
-{% include figure.html image="images/RSE-Andrea-panel.JPG" caption="The Small Brains, Big Threats panel: (from left to right) Kit Longden, Douglas Armstrong, Andrea Adden, Liz Bandason, David Price (chair). Credit: Stewart Attwood Photography / Royal Society of Edinburgh." %}
+{% include figure.html image="images/RSE-GlobalHealth2026-panel.JPG" caption="The Small Brains, Big Threats panel: (from left to right) Kit Longden, Douglas Armstrong, Andrea Adden, Liz Bandason, David Price (chair). Credit: Stewart Attwood Photography / Royal Society of Edinburgh." %}
 
 {% endcapture %}
 
 {% capture col2 %}
 
-{% include figure.html image="images/RSE-Andrea-closeup.JPG" caption="Credit: Stewart Attwood Photography / Royal Society of Edinburgh." %}
+{% include figure.html image="images/RSE-GlobalHealth2026-Andrea.JPG" caption="Credit: Stewart Attwood Photography / Royal Society of Edinburgh." %}
 
 {% endcapture %}
 
