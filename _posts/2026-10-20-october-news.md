@@ -6,7 +6,7 @@ tags:
   - flies
 ---
 
-Andrea was a panelist at the Royal Society of Edinburgh's Global Health workshop, where she joined Liz Bandason (Lilongwe University of Agriculture and Natural Resources), Kit Longden (University of Cambridge), Douglas Armstrong and David Price (University of Edinburgh) to discuss "Small brains, big threats: Connectomics and the insects shaping global health". The workshop was a wonderful opportunity to connect with experts from all over the world, including clinicians, educators and researchers. Check out the RSE's write-up of the day [here](https://rse.org.uk).
+Andrea was a panelist at the Royal Society of Edinburgh's Global Health workshop, where she joined Liz Bandason (Lilongwe University of Agriculture and Natural Resources), Kit Longden (University of Cambridge), Douglas Armstrong and David Price (University of Edinburgh) to discuss "Small brains, big threats: Connectomics and the insects shaping global health". The workshop was a wonderful opportunity to connect with experts from all over the world, including clinicians, educators and researchers. Check out the RSE's write-up of the day [here](https://rse.org.uk/born-equal-into-unequal-circumstances-rse-hosts-forum-on-global-health-challenges/).
 
 {% capture col1 %}
 
